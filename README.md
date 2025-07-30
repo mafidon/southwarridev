@@ -27,16 +27,7 @@ I don’t just build apps — I build **systems for the future**.
 From **The Eternal Now** to **Internet Nashedy**, my code is rooted in ideas that stretch beyond time, beyond hardware.
 
 🪐 *"If you can imagine it, you can architect it."*
-
----
-
-## ⚡ Projects in Motion
-
-- 🚀 `Jita OS` – A unified C-based operating system where all apps speak one language  
-- 🎵 `Murex Streams` – Music investment platform powered by Web3  
-- 💸 `SusuPal` – Digital thrift savings for African communities  
-- 🧠 `NashLang` – Experimental quantum-aware programming language  
-- 🌾 `FarmLink Africa` – Bridging tech and agriculture across the continent  
+  
 
 ---
 
