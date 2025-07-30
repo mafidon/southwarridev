@@ -72,15 +72,10 @@ From **The Eternal Now** to **Internet Nashedy**, my code is rooted in ideas tha
 
 ---
 
-## 📡 Let’s Connect
+## 🌍 Connect With Me
 
-Follow the journey, join the chaos, build the future:
-
-- 🧠 [LinkedIn](https://www.linkedin.com/in/techguyfromwarri)  
-- 📸 [Instagram](https://instagram.com/techguyfromsouthwarri)  
-- 🎥 [YouTube](https://youtube.com/@SouthWarriTech)  
-- 🐦 [X (Twitter)](https://x.com/codefromwarri)  
-- 🎭 [TikTok](https://tiktok.com/@thetechguyfromwarri)
+- 📷 Instagram: [@techguyfromsouthwarri](https://www.instagram.com/techguyfromsouthwarri/)
+- 🎵 TikTok: [@nashedy1257](https://www.tiktok.com/@nashedy1257)
 
 ---
 
